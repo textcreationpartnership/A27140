@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of the commands and doctrine of Christ Jesus and of his people in their faithful obedience to him against all swearers and swearing whatsoever, according to the scriptures of truth : with a few words unto all such rulars [sic], teachers, and people ... that have a hand in afflicting, persecuting, and casting such into prisons ... / W.B.</title>
+            <author>Bayly, William, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27140</idno>
+            <idno type="STC">Wing B1543</idno>
+            <idno type="STC">ESTC R25916</idno>
+            <idno type="EEBO-CITATION">09288484</idno>
+            <idno type="OCLC">ocm 09288484</idno>
+            <idno type="VID">42620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42620)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1301:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of the commands and doctrine of Christ Jesus and of his people in their faithful obedience to him against all swearers and swearing whatsoever, according to the scriptures of truth : with a few words unto all such rulars [sic], teachers, and people ... that have a hand in afflicting, persecuting, and casting such into prisons ... / W.B.</title>
+                  <author>Bayly, William, d. 1675.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.M.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42620:1"/>
+            <p>A VINDICATION Of the Commands and Doctrine of Chriſt Jeſus, And of his People in their faithful Obe<g ref="char:EOLhyphen"/>dience to him, againſt all
+<hi>Swearers</hi> and <hi>ſwearing,</hi> whatſoever according to the Scriptures of TRVTH.</p>
+            <p>With a few words unto all ſuch Rulars <hi>Teachers</hi> and People, of what degree or ſort ſoever, that have a hand in Afflicting, Perſecuting, and caſting ſuch into Priſons who for Conſcience-ſake dare not break the Commands of Chriſt, nor go out of his
+<hi>DOCTRINE.</hi>
+            </p>
+            <p>And it is one Viſitation and Warning more from the Lord unto them, before he ſweep the Land of Evil Doers with the Beaſome of their final deſtruction.</p>
+            <p>And this is in love to their Souls, by a Lover of Righteousneſs and Truth, and a witneſs againſt all Unrighteousneſs, Injuſtice, and Oppreſſion.</p>
+            <p>
+               <hi>W. B.</hi>
+            </p>
+            <q>
+               <p>For the Land is full of Adulterers, for becauſe of ſwearing the land mourneth, &amp;c. For both Prophet and Prieſt are prophane. Where<g ref="char:EOLhyphen"/>fore their way ſhall be unto them, as ſlippery waies in darkneſs, They ſhall be driven on and fall therein, for I will bring evil up<g ref="char:EOLhyphen"/>on them even the year of their viſitation ſaith the Lord,</p>
+               <bibl>Ier. <hi>23.10.11.12.</hi>
+               </bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <div type="body_of_tract">
+               <pb n="2" facs="tcp:42620:2"/>
+               <p>NOw ſeeing the great controverſie at this day between the falſe Chriſtians and the true, (namely the perſe<g ref="char:EOLhyphen"/>cuting Powers of this Generation, and the Royal Seed and people of God called Quakers,) is about Swearing, and Oathes, and the like matters appertaining to Re<g ref="char:EOLhyphen"/>ligion, and Worſhip of God, which are matters of Conſcience, (the anſwer of which before God in the day of death, is a mans eternal condemnation; or Juſtification and ſalvation.) It there<g ref="char:EOLhyphen"/>fore lies upon me at this time, to vindicate the only right and propriety of Chriſt Jeſus, in the Conſciences of his people; and alſo of his people in their faithfulneſs and obedience unto him; (who is the head of his Church, and whoſe right alone it is to reign,) againſt that doctrine and ſoul deſtroying principle, of impoſing Oathes, or any other thing whatſoever, which con<g ref="char:EOLhyphen"/>cerns the exerciſe of the ſoul and conſcience, (which is immor<g ref="char:EOLhyphen"/>tal) towards God, or any part of his worſhip, &amp;c.</p>
+               <p n="1">1. It is written in the ſecond Epiſtle of
+<hi>Iohn,</hi> at the nine ten and eleven verſes, on this wiſe, viz.
+<hi>Whoſoever tranſgreſſeth and abideth not in the Doctrine of Chriſt, hath not God; He that abi<g ref="char:EOLhyphen"/>deth in the Doctrine of Chriſt, he hath both the Father and the Son, and if there come any unto you and bring not this doctrine, receive him not into your houſe, neither bid him God ſpeed, for he that biddeth him God ſpeed, is pertaker of his evil deeds.</hi>
+               </p>
+               <p n="2">2. Now if any to whom this may come, ſhould be ignorant of what this meaneth, or what this doctrine of Chriſt is, or what the word doctrine do ſignifie, let them take notice of what fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <p>As for the word doctrine, it ſignifies teaching, or that which is taught, ſo that the doctrine of Chriſt is that which he taught or doth teach; and it may be truly read thus, <hi>Whoſoever abideth not in the teaching of Chriſt, or in what he taught, or teacheth, hath not God, &amp;c.</hi> now mark, ſuch an one that abideth not in that which Chriſt taught hath not God, but he that doth abide in what Chriſt hath taught and teacheth, hath both the Father and the Son.</p>
+               <p n="3">3. Now the controverſie being very great at this day between two ſorts of people in this Nation of <hi>England,</hi> about religious matters, for which the one do perſecute abuſe, impriſon, rob,
+<pb n="3" facs="tcp:42620:2"/>ſpoile, &amp; greatly oppreſs &amp; afflict the other, (namely for conſci<g ref="char:EOLhyphen"/>ence ſake, for abiding in the doctrine, &amp; obeying the commands of Chriſt) Let us therefore mark and try the difference of theſe people according to the Scriptures of truth, which thoſe perſe<g ref="char:EOLhyphen"/>cutors themſelves profeſs is their rule; ſo by their own rule let them be tryed.</p>
+               <p n="4">4. Now the people who are thus perſecuted and abuſed, &amp;c. are ſuch as abide in the doctrine of Chriſt, in that which he taught and teacheth, (for which they are perſecuted) and hath both the Father and the Son, 2 <hi>Iohn</hi> 9. And their perſecutors and oppeſſors are ſuch as break the commands, and abide not in the doctrine of Chriſt, and ſo hath not God, (as will be proved and made manifeſt) neither are they to be bid God ſpeed, for ſuch as bid them God ſpeed (or ſide with them) are pertakers of their evil deeds; ſo they that hath not God, (but are without God) are the perſecuters and afflicters of them, that hath both the Father and the Son, (let all people take notice of this,) and now is the Scripture fulfilled, [<hi>Theſe things will they do unto you for my names ſake, becauſe they know not him that ſent me,</hi> John 15.21.]
+<hi>&amp;c.</hi>
+               </p>
+               <p n="5">5. Now what the doctrine of Chriſt is, or what he hath taught, or doth teach his Friends, and Diſciples to do, and to leave undone, may be mentioned in many perticulars, but at pre<g ref="char:EOLhyphen"/>ſent I may omit, but what is in my aim, as to the thing in hand, which is about Swearing and Oathes.</p>
+               <p n="6">6. And now that Chriſt Jeſus did forbid his Diſciples to ſwear, and that it was his doctrine which he taught them not to ſwear at all, may be eaſily proved, yea though they were ſuch oathes and ſwearing as were lawful, and commanded in Old time, and to be performed to the Lord, as may be read in the record of Matth. 5, Ch. 33, 34. &amp;c.
+<hi>Again ye have heard that it hath been ſaid by them in Old time, Thou ſhalt not forſwear thy ſelf, but ſhalt perform unto the Lord thine Oathes: But I ſay unto you, ſwear not at all, neither by Heaven, for it is Gods Throne, nor by the earth, for it is his Footſtool, neither by Ieruſalem for it is the City of the great King, neither ſhalt thou ſwear by thy head, becauſe thou canſt not make one hair white or black; But let your communication be yea, yea, nay, nay, for whatſoever is more then theſe cometh of evil.</hi>
+               </p>
+               <pb n="4" facs="tcp:42620:3"/>
+               <p>And ſaid <hi>Iames</hi> a ſervant of God and of the Lord Jeſus Chriſt, to his Brethren, (who wrote to the Twelve Tribes ſcattered abroad) <hi>Above all things my brethren ſwear not, neither by Hea<g ref="char:EOLhyphen"/>ven, neither by the earth neither by any other oath, but let your yea, be yea, and your nay, nay, leaſt ye fall into condemnation, Ch.</hi> 5. 12. <hi>v.</hi> bringing with him the very ſame doctrine which Chriſt taught them, in which whoſoever abideth not, hath not God, let him profeſs what he will; for ſaith <hi>Iohn</hi> in his firſt Epiſtle. <hi>We are of God, he that knoweth God heareth us, he that is not of God, heareth not us, hereby know we the ſpirit of truth, and the ſpirit of error,</hi> clearly manifeſting that ſuch as bring not the ſame doctrine with them are in the ſpirit of error, and that abide not therein are not of God, but of the world, 1
+<hi>Iohn</hi> 4.5, 6. <hi>And the whole world lyeth in wickedneſs.</hi> Ch.
+5.19. So he that ſaith I know him (or profeſs him) and keepeth not his Commandements, is a ly<g ref="char:EOLhyphen"/>er, and out of the truth, <hi>and ſo a deceiver and an Antichriſt, de<g ref="char:EOLhyphen"/>dying both the Father and the Son. Ch.</hi> 2.22.23. For whoſoever denieth Chriſt's words and doctrine, hath denied him alſo, and he that denieth him, denieth the Father alſo, <hi>(not onely with the lips)</hi> for the Father hath committed all power and judgement to the Son, that all men ſhould honour the Son, even as they honour the Father; (who ſaid) <hi>This is my beloved Son here ye him, Mat.</hi> 17.5. But they that break his Commandes, and abide not in his doctrine, do diſhonour him, and are contrary to him, of Antichriſt, without God, in the world, &amp;c.</p>
+               <p n="7">7. <hi>Object.</hi> Now ſome may object and ſay, that theſe Com<g ref="char:EOLhyphen"/>mands or Doctrines of Chriſt Jeſus, and his ſervant
+<hi>Iames,</hi> about oathes and ſwearing, was not to diſanul, make void, or prohibit all ſwearing and oathes, as Religious oathes, (as ſome call them) or oathes of Allegiance, or obedience to Superiors, before a Magiſtrate lawfully tendred, or the like; but vain and frivolous oathes and ſwearing in their common talk, or ſuch ſuperſtious and Idolatrous ſwearing and oathes as the Phatiſees uſed, who ſaid, it was nothing to ſwear by the Temple, but whoſoever ſhall ſwear by the Gold of the Temple, he is a debter, &amp;c. Againſt whom Chriſt denounced many woes, and called them Fooles and blind, <hi>Matt.</hi> 23.</p>
+               <pb n="5" facs="tcp:42620:3"/>
+               <p n="8">8. <hi>Anſw.</hi> Now firſt conſider to whom Chriſt and his Servant. <hi>Iames</hi> did ſpeak, and read their words, and weigh them in the fear of God, <hi>Matt.</hi> 5.6. <hi>ch.</hi> And thou maiſt ſee that Chriſt ſpake to his own Diſciples, expounding the things concerning the law, wherein was written, <hi>Thou ſhalt not commit Adultery, Thou ſhalt not kill,</hi> &amp;c. Exod. 20. <hi>And an eye for an eye, and a Tooth for a tooth,</hi> &amp;c. 21.14. <hi>And whoſoever ſhall put away his Wife, let him give her a writing of Divorſement Deut.</hi> 24.1, &amp;c. Calling the time of the Law, the Old time, in which theſe things were gi<g ref="char:EOLhyphen"/>ven forth as Commandements by the Lord, as alſo ſwearing in that time was commanded and lawful, and the oathes to be per<g ref="char:EOLhyphen"/>formed to the Lord, as may be read <hi>Numb.</hi> 30.2. <hi>If a man vow a vow unto the Lord, or ſwear an oath to bind his ſoul with a bond, he ſhall not break his word, he ſhall do according to all that procee<g ref="char:EOLhyphen"/>deth out of his mouth,</hi> &amp;c. And in <hi>Deut.</hi> 6.13. <hi>Thou ſhalt fear the Lord thy God and ſerve him, and ſhalt ſwear by his name,</hi> And Pſalm. 63. <hi>Every one that ſweareth by him ſhall glory, but the mouth of them that ſpeak lies ſhall be ſtopt,</hi> and the Angel ſwore, and <hi>Abraham</hi> and
+<hi>Iſack</hi> ſwore; and in Iſaiah 65.16. <hi>And he that ſweareth in the earth ſhall ſwear by the God of Truth (but the mouth of the lyar ſhall be ſtopt)</hi> and <hi>Ioſeph</hi> and <hi>David</hi> ſwore, and many more that might be mentioned, ſo that ſwearing by the God of Truth in the earth was lawful in the Old time, of which Chriſt ſpake as is ſufficiently proved, <hi>Gen.</hi> 21.24. and 26.31. and 42.15. But theſe things were but for their time and ſeaſon, for the Law ſerved (and the Old time ſwearing and ceremonies) till the Seed came, <hi>Gal.</hi> 3. which is Chriſt, the new and living way, who ſaith, <hi>ſwear not at all,</hi> Matt. 5.34. So theſe were no ſuch frivelous Oathes, neither was it onely ſuch prophane or ſu<g ref="char:EOLhyphen"/>perſtitious ſwearing, of which Chriſt was here ſpeaking and for<g ref="char:EOLhyphen"/>bidding his Diſciples, or ſuch oathes as the Phariſees uſed a<g ref="char:EOLhyphen"/>mong them; But ſuch as were to be performed (in the Old time) to the Lord, even in the time of the Law and the Pro<g ref="char:EOLhyphen"/>phets, of whom Chriſt the Subſtance is the end, to every one that beleiveth, who ſaith, <hi>Swear not at all.</hi>
+               </p>
+               <p n="9">9. And again, do ye conceit or beleive, that the Diſciples of Jeſus Chriſt (whom he ſometimes called Brethren, and chil<g ref="char:EOLhyphen"/>dren) were ſuch common or prophane ſwearers, or did ſwear
+<pb n="6" facs="tcp:42620:4"/>their common talke as you falſe Chriſtians do, who profeſs him &amp; his doctrine &amp; practiſe only in words &amp; ſhew; or do ye think or imagine it was onely the Phariſees blind Superſtitions ſwearing, or the like that he forbade them? If ſo, Then why did he menti<g ref="char:EOLhyphen"/>on the Old time, and thoſe other things of the Law, and ſay, <hi>Ye have heard that it hath been ſaid by them of Old time, Thou ſhalt not forſwear thy ſelf, but ſhall perform unto the Lord thine Oathes, &amp;c.</hi> this could not be the Phariſees oathes, and ſwearing then preſent; neither any ſuch prophane or ſuperſtitious oathes, be<g ref="char:EOLhyphen"/>cauſe it were ſuch oathes as were to be performed to the Lord, and not at that preſent time of the Phariſees, but in the Old time, of which they had heard, <hi>Matt.</hi> 5. or can thou ſay that ever the Phariſees, <hi>blind ſwearing or fooliſh confuſed Oathes,</hi> Mat. 23. was ever commanded by the Lord, or to be performed to him? which I judge no man can prove.</p>
+               <p n="10">10. But however or what oathes or ſwearing ſoever it was, of which there and then he was ſpeaking, and forbidding his Diſciples, it was ſufficient for them then, and for the Diſciples of Chriſt (the true Chriſtians) now, that he hath poſitively com<g ref="char:EOLhyphen"/>manded (which is not to be diſputed by them that follow him) ſaying; <hi>But I ſay unto you, ſwear not at all,</hi> ſeeing all power in heaven and earth, and all judgement and authority is given and committed to him, of whom God hath ſaid,
+<hi>This is my beloved Son in whom I am well pleaſed, hear ye him.</hi>
+               </p>
+               <p>And again, Hebrew. 1.1. <hi>God who at ſundry times, and in di<g ref="char:EOLhyphen"/>vers manners, ſpake in times paſt unto the Fathers in the Prophets, hath in theſe laſt daies ſpoken unto us in his Son whom he hath ap<g ref="char:EOLhyphen"/>pointed Heir of all things, by whom alſo he made the worlds, &amp;c.</hi> Now if
+<hi>Abraham, I ſacc</hi> and <hi>Iacob, David</hi> and <hi>Solomon, Moſes, Iſaiah,</hi> or <hi>Ioſeph</hi> did ſwear, theſe were all but ſervants in the old time, but the Son who is the heir of all things, by whom the worlds were made, who is above the ſervants, by whom God ſpeaks in theſe laſt daies, the new and living way, to whom all power is given in heaven and earth, whom all are to hear, ſaith, <hi>Swear not at all,</hi> and though the Angel ſwore, yet he is but a ſer<g ref="char:EOLhyphen"/>vant, as he himſelf ſaid to
+<hi>Iohn, [See thou do it not, for I am thy fellow ſervant]</hi> Rev. 21.9. But Chriſt the Son is the Heir of all things, and hath obtained a more excellent name then the An<g ref="char:EOLhyphen"/>gels, <pb n="7" facs="tcp:42620:4"/>by Inheritance,
+<hi>Heb.</hi> 1.4. And again, when he bringeth in the firſt begotten into the world, he ſaith, <hi>And let all the An<g ref="char:EOLhyphen"/>gels of God worſhip him. verſ.</hi> 5.6. &amp;c.</p>
+               <p n="12">12. And ſaid <hi>Paul</hi> an Apoſtle of Jeſus Chriſt, <hi>If an Angel from Heaven ſhould preach another Goſpel, (or doctrine) unto you, then that which we have preached let him be accurſed;</hi> ſo that we are not to look at any that ſwore in old time, or in daies paſt for our example and rule, (though it be an Angel from Heaven) contrary to Chriſts doctrine and command, who ſaith, <hi>Swear not at all.</hi>
+               </p>
+               <p n="13">13. For the Scripture 2 <hi>Iohn</hi> 9. do not ſay,
+<hi>Whoſoever abideth not in the doctrine of Angels, or of</hi> Iſaiah<g ref="char:punc">▪</g> David <hi>or</hi> Solomon, <hi>&amp;c. hath not God,</hi> But
+<hi>whoſoever abideth not in the Doctrine of Chriſt, hath not God, and he that doth abide in it, hath both the Father and the Son, for he that obeyeth the Son, obeyeth the Father alſo, for the Father hath committed all things unto the ſon, whom he hath given for a Leader and Commander to the people, and to be his ſal<g ref="char:EOLhyphen"/>vation to the ends of the earth, and there is no other name given un<g ref="char:EOLhyphen"/>der heaven whereby men ſhall be ſaved, (Neither of Men or An<g ref="char:EOLhyphen"/>gels)</hi> for he was before <hi>Abraham</hi> was, and is greater then
+<hi>Solomon,</hi> and <hi>Davids</hi> Lord, and higher then the Angels, who commands, <hi>Not to ſwear at all, Mat.</hi> 5.</p>
+               <p n="14">14. <hi>Object.</hi> Now if any ſhould yet Object and ſay, <hi>Did not God himſelf ſwear by himſelf,</hi> Heb. 6.13. And the Apoſtle <hi>Paul</hi> ſay, <hi>An Oath for confirmation among men was the end of ſtrife, &amp;c. Do not this allow of ſwearing and make room for oathes now among men in theſe dayes, &amp;c.</hi>
+               </p>
+               <p n="15">15. <hi>Anſw.</hi> That which God did in daies paſt concerning ſwearing, mentioned <hi>Heb. chap.</hi> 6. It was to confirme his pro<g ref="char:EOLhyphen"/>miſe made to <hi>Abraham</hi> and to his Seed, (and they that are Chriſts are <hi>Abrahams</hi> ſeed, and heirs according to promiſe, and ſuch are Chriſts, that abide in his doctrine, and do his com<g ref="char:EOLhyphen"/>mands, they only are his friends) and by way of ſimilitude did the Apoſtle
+<hi>Paul</hi> there ſpeak of it (&amp; not by command or doctrine, <hi>he that reads, let him underſtand) That men by an oath did end the controverſie or ſtrife among them, and confirme the thing about which they ſwore, who did ſwear by the Greater,</hi> as I have before mentioned,
+<hi>by them in the old time, Num.</hi> 30.2. <hi>Deu.</hi> 6.13,
+<hi>&amp;c.</hi> 
+                  <pb n="8" facs="tcp:42620:5"/>So that the Apoſtle ſaid, <hi>Becauſe God could not find a Greater, he did ſwear by himſelf, to</hi> Abraham, ſaying, <hi>ſurely in bleſſing I will bleſs thee, and in multiplying I will multiply thee, &amp;c.</hi> This was a promiſe made to
+<hi>Abraham</hi> with an oath, putting him out of all doubt that he would fulfil it, and ſo he ſtaggered not at it, but patiently waited till it came to paſs. <hi>Hebrews</hi> 6.15.</p>
+               <p n="16">So that this is onely a Parable, ſhewing, that if among
+[men] an oath did confirme a thing, and end the ſtrife, and that [men] did perform [their] oathes (who did ſwear by the <hi>Grea<g ref="char:EOLhyphen"/>ter,</hi> which was once commanded by <hi>Him</hi>) how much more would the [Lord] be faithful to perform <hi>[His]</hi> oath which he ſware by <hi>[Himſelf]</hi> (who is the <hi>Greateſt</hi>) to <hi>Abraham</hi> and to his ſeed, ſeeing he cannot lye, nor is he a man that he ſhould repent, but is the Righteous Judge of all the earth (that doth right) <hi>Gen.</hi> 18.25.</p>
+               <p n="17">17. So that this is neither precept, example or command for the Chriſtians, the Diſciples of Chriſt (now in theſe laſt daies) for ſwearing and oathes, but a repetition of what was done in times paſt, (the old time) to the Fathers as he ſpeaks, <hi>Heb.</hi> 1.1. <hi>Which was in divers manners and at ſundry times,</hi> but now he hath ſpoken unto us in his Son and Heir, who is before <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> and the end of the old time, the Law and the Prophets, who ſaith, <hi>Swear not at all.</hi>
+               </p>
+               <p n="18">18. <hi>Object.</hi> But did not God ſwear by himſelf, and will not Repent, <hi>ch.</hi> 7.21. But this ſeems as if God did repent; ſeeing now by his ſon (to whom he hath given all power in heaven and earth) he commands not to ſwear at all in theſe laſt daies, is not this repenting of what was done formerly in the old time? &amp;c.</p>
+               <p>
+                  <hi>Anſ.</hi> No: It cannot be ſaid (truly) here, he did Repent, ſee<g ref="char:EOLhyphen"/>ing he hath willingly and faithfully performed and fulfilled that which he had then ſworn and promiſed; as in the Record of <hi>Luke</hi>
+1.72.73. where it is mentioned, not for a precept of ſwearing, but in thanksgiving and praiſes to the Lord, that he had performed the oath which he had ſworn to <hi>Abraham,</hi> by giving them light (who ſate in darkneſs and in the ſhadow of death) and the knowledge of ſalvation, <hi>by the remiſſion of their ſins, &amp;c.</hi>
+               </p>
+               <p>But where he ſpake of ſwearing, and <hi>will not repent,</hi> it was <pb n="9" facs="tcp:42620:5"/>conſerning the diſanulling of all thoſe Prieſts which were made by a carnal commandement, and of eſtabliſhing Chriſt Jeſus<g ref="char:punc">▪</g> His Son with an oath, to be a Prieſt for evermore, after the order of <hi>Melchiſedeck,</hi> (an unchangeable unalterable order) and not after the order of <hi>Aaron,</hi> (which Prieſthood was chan<g ref="char:EOLhyphen"/>ged, and ſo there was of neceſſity a change alſo of the Law, by which ſwearing and oathes was commanded and tollerated) for ſuch an High-Prieſt (ſaith the Scripture) became us, who is ho<g ref="char:EOLhyphen"/>ly harmeleſs, undeſiled, ſeperate from ſinners, and made higher then the Heavens, &amp;c. For the Law maketh men High-Prieſts which have infirmity, but the word of the oath which was ſince the law, maketh the Son who is conſecrated for evermore; mark the word of the oath (which was ſince the Law) which God ſware and will not repent, maketh the Son an High-Prieſt for evermore, at whoſe mouth the Law muſt now be ſought, as it was of the Prieſts in the Old time, <hi>whoſe lips were to preſerve the peoples knowledge,</hi> Mal. 2.7. But now in the Son Chriſt, dwelleth all the treaſures of wiſdome and knowledge, by whom God ſpeakes in theſe laſt daies, ſaying, <hi>This is my beloved ſon hear ye him, &amp;c.</hi>
+               </p>
+               <p n="21">21. So that you who contend and plead for ſwearing, and oathes, and perſecute about it, are yet in the old time and under the Law, and the old, diſanulled, changeable Prieſthood, and fell into condemnation,
+<hi>Iames</hi> 5.12. and not under grace, no Diſciples of Chriſt Jeſus, the everlaſting unchangeable High-prieſt, who ſaith, <hi>Swear not at all;</hi> And ſo no chriſtians.</p>
+               <p n="22">22. And ſo now, ye have no covering but what is too narrow for your ſwearing and oathes, nor no ſhadow of death or dark place to hide yourſelves under, from the light of the Son, who is now riſen, and coming up to the noon day, whom God hath highly exalted, and given him a Name above every Name, that at his Name every knee ſhould bow, of things in heaven and things in the earth, and things under the earth, &amp;c. <hi>Phil.</hi>
+2.9.10.</p>
+               <p n="23">23. And ſo if every knee muſt bow to him, then muſt
+<hi>Abra<g ref="char:EOLhyphen"/>ham David</hi> and <hi>Solomon, Ioſeph, Iſaac</hi> and
+<hi>Iacob,</hi> and all the An<g ref="char:EOLhyphen"/>gels bow their knees, (underſtand what name, and what knees, of things in Heaven and Earth &amp;c.) and all who did ſwear in the <pb n="10" facs="tcp:42620:6"/>Old time) to him who now ſaith, <hi>Swear not at all,</hi> Mat. 5. which is ſince the law.</p>
+               <p n="24">24. And if ye ſhall yet again ſay or do beleive that it was on<g ref="char:EOLhyphen"/>ly prophane ſwearing and oathes that Chriſt there forbad his Di<g ref="char:EOLhyphen"/>ſciples, even ſuch as drunkards and quarrellers uſe in their com<g ref="char:EOLhyphen"/>mon talke or ſuch as the Phariſees uſed, as aforeſaid, and not lawful or religious oathes.</p>
+               <p n="25">25. To this I anſwer; If ſuch prophane oathes and ſwearing and ſuch ſuperſtitious and Idolatrous ſwearing, as the Phariſees and Hipocrites then uſed <hi>Mat.</hi> 23. were ever commanded of God, and to be performed to him in the Old time, then it were ſuch oathes and ſwearing: But I do not read nor beleive, (nor any other true Chriſtian) that God did ever in any age, or to a<g ref="char:EOLhyphen"/>ny people whatſoever, command or allow of ſuch a kind of ſwearing and oathes, as the ungodly, drunkards and prophane people uſe in their common talk, or ſuch as the Hipocrites did then, or do now uſe, who perſecute them that witneſs the oath and everlaſting covenant of God fulfilled, which now ſaith to his Diſciples,
+<hi>Swear not at all.</hi>
+               </p>
+               <p n="26">26. But if it could be ſo proved and made manifeſt, yet the word or commandement <hi>[I ſay unto you ſwear not at all,]</hi> do in<g ref="char:EOLhyphen"/>clude (to the underſtanding of the upright and reaſonable) all ſwearing whatſoever to be forbidden by Chriſt Jeſus, whom all are to hear, and to whom every knee muſt bow.</p>
+               <p n="27">27. <hi>Object.</hi> But here may yet another queſtion ariſe, in the unſariable reaſoning part, among people in the World, Viz.
+<hi>If all ſwearing and oathes is now forbidden and that we muſt not ſwear at all by the command of Chriſt Ieſus, what then will become of all the world? One man might kill another, and ſteal from another, and abuſe, rob and ſpeil their neighbours witbout reſtraint or puniſhment, ſeeing mens words will not be taken, as ſufficient to prove any crime againſt any according to Law, without an oath, which among men doth end the ſtrife, and is a confirmation &amp;c.</hi>
+               </p>
+               <p n="28">28. To which I anſwer. I grant the whole world lyeth in wickedneſs, (as the Apoſtle <hi>Iohn</hi> ſaid) and they themſelves con<g ref="char:EOLhyphen"/>feſs the ſame, that they break the commands of God every day, in thought word and deed, which is alſo very apparent to all whoſe eyes are open, and many times complain there is no <pb n="11" facs="tcp:42620:6"/>health (or truth) in them, and that they are miſerable ſinners: This is generally confeſt throughout <hi>Europe,</hi> and it may be throughout the whole world among the ſwearers, who are ſtill in ſtrife and debate, and ſmiteing with the fiſt of wickedneſs, notwithſtanding all their oathes and ſwearing, it ends not the ſtrife among them.</p>
+               <p n="29">29. But now mark, theſe are all of the world, and their teachers who plead for ſwearing, and oaths, are of the world, and the world heareth them, 1 <hi>Iohn</hi> 5.19. Theſe are miſerable ſinners without truth and health, no ſoundneſs from the crown of the head to the ſole of the foot, (from the high and mighty to the beggar on the dunghil) but all gone out of the way, erred and ſtrayed from the right way, as they themſelves confeſs.</p>
+               <p n="30">30, Now when theſe do ſteal one from another, or kill, mur<g ref="char:EOLhyphen"/>ther, or rob one another, we do not bid them refrain from ſwea<g ref="char:EOLhyphen"/>ring one againſt another, in that caſe, becauſe they are no chri<g ref="char:EOLhyphen"/>ſtians,
+<hi>And what have we to do with them that are without</hi> (as Paul ſaid)
+<hi>for ſuch God judgeth,</hi> 1 Cor. 5.12, 13. but we direct and inform peoples minds, and exhort them that are thus in ſtrife and ſwearing, killing and ſtealing, (<hi>for which the Land mour<g ref="char:EOLhyphen"/>neth</hi> Hoſ. 4.2.3.) to come to the Light of Chriſt Jeſus in their conſciences, and learn of him (who ſheweth them that theſe things are evil and reproves the wole world for their ſins) that ſo they might be taught (as his Diſciples are) to deny all ſuch un<g ref="char:EOLhyphen"/>godlineſs and theſe worldly Luſts, (from whence the ſtrife and ſwearing, wars and fightings comes) and live ſoberly, righteouſ<g ref="char:EOLhyphen"/>ly and godly in this preſent evil world, and to do unto all men as they would have others do to them, and yet this is but the Law and the Prophets.</p>
+               <p n="31">31. Therefore ye ſhould conſider, that this ſtrife, ſwearing and oathes is not among chriſtians, who obeys Chriſts com<g ref="char:EOLhyphen"/>mands, and abide in his doctrine, but in the world which lyeth in wickedneſs; And as ſaith the Prophet, <hi>The wicked will do wickedly (while many are tryed, purified and made white) and none of the wicked ſhall underſtand,</hi> Dan.
+12. <hi>And ſuch as abide not in the doctrine of Chriſt, but tranſgreſſeth, hath not God,</hi> 2. John 9.</p>
+               <p n="32">32. So that all theſe things are among them that are out of the doctrine of Chriſt, who ſaith, <hi>Swear not at all,</hi> and ſo are with<g ref="char:EOLhyphen"/>out <pb n="12" facs="tcp:42620:7"/>God in the world, having their hearts blinded, and their hearts alienated and eſtranged from the covenant of promiſe, (which God ſware to <hi>Abraham</hi>) and ſtrangers to the Common<g ref="char:EOLhyphen"/>wealth of <hi>Iſrael,</hi> ſo are none of his Diſciples, whom he hath taught to be merciful, and to do to all men as they would be done unto; and when this is done among people, where would be the killing, or ſtealing, impriſoning, or perſecuting, if ye were but come to this; for thou would not have another kill thee, nor ſteal from thee, nor perſecute thee for thy Religion and conſci<g ref="char:EOLhyphen"/>ence; then take heed that thou do likewiſe, elſe thou art no chriſtian, let thy profeſſion be what it will, or thy Religion and worſhip, and outſide Garments, of what colour or form ſoever. So that we do juſtly conclude, and Gods witneſs in all your con<g ref="char:EOLhyphen"/>ſciences, ſhall one day witneſs the ſame; That we who are out of the ſwearing and ſtrife abiding in Chriſts doctrine and com<g ref="char:EOLhyphen"/>mands, are of God, <hi>and hath both the Father and the Son,</hi> as it is written 2 <hi>Iohn</hi> 9. (how blindly ſoever you now judge of us) and that you who are in the ſtrife and ſwearing out of the doctrine of Chriſt hath not God, but are without God, in the world that lyeth in wickedneſs, and have not his fear before your eyes, <hi>which is to depart from evil,</hi> Prov. 8.13. and 16.6.</p>
+               <p>Therefore conſider theſe things, all ye Rulers, Teachers and people, who contend for ſwearing, and oathes, and caſt the ſer<g ref="char:EOLhyphen"/>vants of God into your noyſome holes, and priſon-houſes, ma<g ref="char:EOLhyphen"/>king long furrows upon their backs with your Inſtruments of cruelty, for abiding in the doctrine of Chriſt Jeſus; and becauſe they cannot break his commands by ſwearing, and yet you your ſelves profeſs his name in wo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds, and ſay you are chriſtians, and that he is your Lord and Saviour and the like: Away with this hipocriſy, Gods ſoul loaths it, and ye are a burthen to him which he is even weary to bear, and he will ſhortly eaſe himſelf of all you hypocrites who cry Lord, Lord, and do not the things which he commands, this was the Phariſees ſtate, the perſecutors to whom the <hi>woes</hi> from the Son of God were denounced, as they are againſt you at this day.</p>
+               <p>Therefore if ye will now own ſwearing and oathes to be law<g ref="char:EOLhyphen"/>ful, uſeful, and tollerable and plead for them, and perſecute a<g ref="char:EOLhyphen"/>bout them, and ſuch things, when Chriſt Jeſus hath expreſly and
+<pb n="13" facs="tcp:42620:7"/>poſſitively forbidden all ſwearing, (to whom God hath com<g ref="char:EOLhyphen"/>mitted all power and judgement in Heaven and earth, to whom every knee muſt bow, who is made an High Prieſt with an oath (which God ſware and will not Repent) ſince the Law and the Old time, who is the end of the Law and the Prophets, by whom God ſpeaks in theſe laſt daies, &amp;c.</p>
+               <p>Then confeſs openly before all people that ye are Jews-living in the Old time, under the Law, and not in the new and living way Chriſt the end of the Law; or that ye are Infidels, or Hea<g ref="char:EOLhyphen"/>thens, &amp; no longer profes your ſelves chriſtians for ſhame; or take the name of Chriſt into your mouthes for a cloak of malitiouſneſs but as flatly deny him to be come in the fleſh <hi>with your mouth &amp; tongues as ye do with your works, Tit.</hi> 1.16. And that ſuch or anylo<g ref="char:EOLhyphen"/>ther of his commands, are of no effect or force to you, &amp; ſo deny him to be Lord, who is the Head over all, to his Church, to whom every tongue ſhall confeſs, to the glory of God the Father.</p>
+               <p>For if ye do ſtill profeſs him or his Name in words, and that ye are his ſervants, and call your ſelves chriſtians or the like, and yet not obey his commands, nor do the things which he hath ſaid, nor abide in his doctrine, but perſecute them that do, we muſt and ſhall judge you in righteous judgement, to be abomi<g ref="char:EOLhyphen"/>nable hypocrites, and rebellious, and diſobedient both to the Father and the Son, for God hath ſaid, <hi>This is my beloved Son in whom I am well pleaſed, hear ye him;</hi> and the Son ſaid, <hi>Swear not at all;</hi> and John ſaid, <hi>Whoſoever tranſgreſſeth and abideth not in the doctrine of Chriſt hath not God.</hi> And this is Chriſts doctrine before mentioned, which he taught,
+<hi>In which who ſo abideth hath both the Father and the Son.</hi>
+               </p>
+               <p>Therefore take heed to your ſelves what ye do, or what ye intend to do againſt ſuch, for the Lord God of Heaven is plea<g ref="char:EOLhyphen"/>ding their cauſe, and will plead with you all who break his com<g ref="char:EOLhyphen"/>mands, and teach men ſo, or compel men ſo to do; for ye are all out of the doctrine of Chriſt, in the tranſgreſſion (though ye can talk of him, and profeſs him with your mouth and lips) and hath not God, but are without God, in the world which lies in wick<g ref="char:EOLhyphen"/>edneſs, where ye are contending and pleading for ſwearing and oathes in the old time, which ends not your ſtrife, which the one oath, the new &amp; living way ends, who ſaith, <hi>Swear not all, Mat.</hi> 5.</p>
+               <pb n="14" facs="tcp:42620:8"/>
+               <p>So ye being without God in the world, breaking his com<g ref="char:EOLhyphen"/>mands, ye are not under Chriſts government; and ſo being out of his government ye are without his protection, for he praies not for the world, but for them whom he hath choſen out of it; for the whole world lies in wickedneſs: So ye being in the wic<g ref="char:EOLhyphen"/>kedneſs, in the Tranſgreſſion, out of Chriſts protection, (who hath all power in Heaven and earth) ye are in darkneſs, and un<g ref="char:EOLhyphen"/>der the ſhadow of death, and in the gall of bitterneſs, and in the bond of iniquity, captivated in the ſnares and chains of the Old fool, (at his pleaſure) whom ye obey, and ſo ye are in ſuch apre<g ref="char:EOLhyphen"/>munire (body, ſoul and ſpirit) that ye will never more get out except ye repent with ſpeed, and turn your minds to the light of Chriſt Jeſus in your conſciences, and obey his commands, and abide in his doctrine, who ſaith, <hi>Swear not at all.</hi>
+               </p>
+               <p>And this is the word of the Lord God of Heaven unto all you Rulers, Prieſts and people whatſoever, who ſwear and plead for ſwearing and oathes, and perſecute the harmeleſs about it, ye are none of Chriſts ſheep, ſervants, friends or children, but of the linage of <hi>Cain</hi> and the old hipocrites in their way, to whom the woe belongs, who denied Chriſt and chuſed a murtherer, and ſo ye are no chriſtians.</p>
+               <p>But Chriſt Jeſus is come, and is ſetting up his government, Kingdome and dominion over all your kingdomes, and eſtabli<g ref="char:EOLhyphen"/>ſhing his Throne upon top of all your Thrones, whoſe Secpter is a Scepter of righteouſneſs, which muſt rule over all unrighteous Secpters. And to his name which is above every name, ſhall all your knees bow.</p>
+               <epigraph>
+                  <q>
+                     <p>
+                        <hi>If ye fulfil the Royal Law according to the Scripture, Thou ſhalt love thy neighbour and thy ſelf, ye do well, &amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>For whoſoever ſhall keep the whole law, and yet offend in one point, be is guilty of all,</hi>
+                     </p>
+                     <bibl>
+                        <hi>Iam. 2.8. &amp;c.</hi>
+                     </bibl> 
+                  </q>
+               </epigraph>
+            </div>
+            <div type="warning">
+               <pb n="15" facs="tcp:42620:8"/>
+               <head>A few words more to the Rulars, Prieſts, Teachers and People, of what ſort ſoever, in this Nation of <hi>England,</hi> from the high<g ref="char:EOLhyphen"/>eſt to the loweſt, who have any hand in perſecuting the Inno<g ref="char:EOLhyphen"/>cent, &amp;c.</head>
+               <p>HEar and underſtand all ye Rulers, Prieſts and Teachers of
+<hi>En<g ref="char:EOLhyphen"/>gland,</hi> with all your Officers and ſervants, or whomſoever elſe, Superior or Inferior, from the Iudge to the Goaler, or from the high<g ref="char:EOLhyphen"/>eſt to the loweſt, who have any hand, or are in any meaſure perta<g ref="char:EOLhyphen"/>kers againſt the innocent people and ſervants of the Lord Ieſus Chriſt who cannot break his commands by ſwearing.</p>
+               <p>This we would give you to underſtand, that as for us who fear and obey the Lord; your Priſons and cruel unjuſt dealings, and your long furrowes ye plough upon our backs therein, is very little to us, except to the more raiſing and ſtrengthning of that life in us, which will never bow to your wills, or any will of man by tranſgreſſing the com<g ref="char:EOLhyphen"/>mands of Chriſt Ieſus; for our eyes are not at what ye can or will, or have power permitted you to do, or at the length of time, in which we ſuffer bonds under your ambitious wills, or at any other temporal thing whatſoever; but to the Lord our God alone, who is pleading and will plead our innocent cauſe for us in all your conſciences: Ye if ye ſhould ſhut us up in Dungeons never ſo cloſe from you, out of your ſight or hearing, yet Gods witneſs (as a drawn ſword in your bowels) which ſeeth in ſecret, ſhall pierce through your heart and life, and ſmite you in your very vital parts for all your wickedneſs against him, his way of truth and harmeleſs people; and ſet in order before you all you ungodly deeds and blaſphemous hard ſpeeches which ye have committed and ſpoken, for the eye of the pure God beholds, and his ear of jealouſy hears you in your moſt ſecret chambers, from whoſe preſence ye cannot alwaies fly nor hide your counſels, though you ſhould dig as deep as Hell, or fly to the uttermoſt parts of the earth. And though you ſhould keep us till death in your priſons, we cannot break the commands of our Lord and Saviour, which hath ſaved us, and will yet ſave and deliver us; But as for you who profeſs your ſelves chriſtians, conſider theſe things. Whether he whom you pro<g ref="char:EOLhyphen"/>feſſe in words will not call you to an account for breaking his com<g ref="char:EOLhyphen"/>mands, and for caſting his ſervants and children into priſons, and keep them there, for no other cauſe but for keeping the commands &amp; <pb facs="tcp:42620:9"/>abideing in the doctrine of Chriſt, whom your ſelves profeſs in words and ſhew, as the Phraiſees did,
+<hi>Moſes</hi> and the Prophets, but oppoſed their life, &amp; Crucified Chriſt Ieſus the end and ſubſtance of <hi>Moſes</hi> and the Prophets words; Ye hypocrites, what covering or excuſe can ye have to hide or ſhelter your ſelves under, in the day of the Lord which haſtens upon you?</p>
+               <p>Its not your Acts and decrees made in the will of man that ſhall ſtand you in ſteed, or ſave you, when the ſentence is given againſt you, <hi>Go ye workers of Iniquity, into everlaſting torment:</hi> Nay, they ſhall not be able to ſave themſelves from the juſt judgement of our God, but ſhall receive a juſt recompence for all their doings.</p>
+               <p>And as for us we chooſe rather to die then tranſgreſs againſt the Lord Ieſus Chriſt, or wrong our conſcience in any meaſure by bowing to the corrupt wills of proud &amp; ambitious men, who are alienated from God, and would alienate us from him alſo; Did we obey your requi<g ref="char:EOLhyphen"/>rings, or impoſitions in theſe unjuſt &amp; unrighteous things? but we de<g ref="char:EOLhyphen"/>ſire to live alway in obedience and humility before him, though our outward man periſh, through your unjuſt and cruel dealings; our ſouls you cannot touch to defile them, neither can ye break our peace with our God by all ye can do.</p>
+               <p>For we know the uttmoſt of your power and Ability, the laſt enemy is death, and through the tender meacies of our God we do enjoy that life and peace, in which we dayly triumph over, death and Hell, and the gates of it; Praiſes and thanks to his holy Name for ever and ever, being founded on the unmoveable Rock of our ſalvation Chriſt Jeſus in whoſe will, life and ſtrength, we are reſolved in pati<g ref="char:EOLhyphen"/>ence for his truth and Nameſake, to undergoe the greateſt puniſhments, afflictions, or death, that you from the higheſt to the loweſt, can or ſhall be able, or ſuffered to inflict upon us. So we have fully weighed and conſidered the coſt to the utmoſt Mite.</p>
+               <p>But as for you this I tell you all, from the higheſt to the loweſt, who have the leaſt hand in our ſufferings (either in perticular or in general) who (in ſcorn) are called Quakers, you are ſplitting and daſhing, breaking and ſcattering, con<g ref="char:EOLhyphen"/>founding and deſtroying your own ſelves in theſe things, and if no other hand be lifted up againſt you, by this ſhall ye fall. And this is Gods word of truth unto you which ſhall ſtand and be fulfilled. So his bleſſed will be done, and in it we are well ſatisfied, knowing and beleiving that the Lord whom we ſerve and obey, knoweth how to deliver them that truſt only in him, and to reſerve the ungodly, to the day of judgement to be puniſhed.</p>
+               <closer>
+                  <dateline>
+                     <hi>From my Priſon at</hi> Harford
+<date>
+                        <hi>the 10th. month 1663.</hi>
+                     </date> 
+                     <hi>where I remain a cloſe priſoner be<g ref="char:EOLhyphen"/>cauſe I cannot ſwear and break the command of Chriſt Jeſus.</hi>
+                  </dateline>
+               </closer>
+               <epigraph>
+                  <q>Thus ſaith the Lord, I will make Jeruſalem a burthenſom ſtone to all people, and they that burthen themſelves with her ſhall be daſhed in pieces.</q>
+               </epigraph>
+            </div>
+            <trailer>The END.</trailer>
+         </div>
+         <div type="colophon">
+            <p>Printed for <hi>W. M.</hi>
+            </p>
+            <pb facs="tcp:42620:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
